@@ -161,9 +161,10 @@ http://localhost:5173
 
 ## 🖼️ Screenshots
 
-|### Login Page | ### Dashboard | ### Transactions | ### Budget Manager |
+| Login Page | Dashboard | Transactions | Budget Manager |
+|------------| --------- | ------------ | -------------- |
 | ![Login](outputs/1.png) | ![Dashboard](outputs/2.png) ![Dashboard](outputs/3.png) 
-![Dashboard](outputs/4.png) |![Transactions](outputs/5.png) | ![Budget](outputs/6.png)
+![Dashboard](outputs/4.png) | ![Transactions](outputs/5.png) | ![Budget](outputs/6.png) |
 
 ---
 
