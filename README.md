@@ -176,8 +176,9 @@ http://localhost:5173
 
 ---
 
-###🎥 Project Demo Video
-###📌 Watch Full Project Demo
+### 🎥 Project Demo Video
+
+### 📌 Watch Full Project Demo
 
 Google Drive Video Link:
 https://drive.google.com/file/d/1IHxiFmkvcfkdDwv2W8Ro0F5br1NUXpPE/view?usp=drivesdk
