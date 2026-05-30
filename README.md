@@ -161,18 +161,9 @@ http://localhost:5173
 
 ## 🖼️ Screenshots
 
-### Login Page
-![Login](outputs/1.png)
-### Dashboard
-![Dashboard](outputs/2.png)
-![Dashboard](outputs/3.png)
-![Dashboard](outputs/4.png)
-
-### Transactions
-![Transactions](outputs/5.png)
-
-### Budget Manager
-![Budget](outputs/6.png)
+|### Login Page | ### Dashboard | ### Transactions | ### Budget Manager |
+| ![Login](outputs/1.png) | ![Dashboard](outputs/2.png) ![Dashboard](outputs/3.png) 
+![Dashboard](outputs/4.png) |![Transactions](outputs/5.png) | ![Budget](outputs/6.png)
 
 ---
 
